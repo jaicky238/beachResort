@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@emmetio/abbreviation": "^2.0.0-rc.1",
-    "contentful": "^7.9.1",
+    "contentful": "^11.7.17",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-icons": "^3.7.0",
